@@ -1,0 +1,1055 @@
+[11:59:56][main.py][69]> D: -------------------Новый запуск.-------------------
+[12:02:41][main.py][69]> D: -------------------Новый запуск.-------------------
+[12:02:41][main.py][87]> I: Загружаю конфиг _main.cfg...
+[12:02:41][main.py][90]> I: Загружаю конфиг auto_response.cfg...
+[12:02:41][main.py][94]> I: Загружаю конфиг auto_delivery.cfg...
+[12:02:41][cardinal.py][661]> I: Хэндлеры из handlers.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из announcements.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[12:02:41][bot.py][1137]> I: Telegram бот инициализирован.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[12:02:41][cardinal.py][661]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[12:02:42][bot.py][1154]> I: Telegram бот @bhfjvfbvjhdvfbot запущен.
+[12:02:43][cardinal.py][207]> I: 
+[12:02:43][cardinal.py][207]> I: ----------------------------------------
+[12:02:43][cardinal.py][207]> I: * Добрый день, FleemShop.              *
+[12:02:43][cardinal.py][207]> I: * Ваш ID: 6737832.                     *
+[12:02:43][cardinal.py][207]> I: * Ваш текущий баланс: 2352.0 ₽.        *
+[12:02:43][cardinal.py][207]> I: * Текущие незавершенные сделки: 0.     *
+[12:02:43][cardinal.py][207]> I: * Удачной торговли!                    *
+[12:02:43][cardinal.py][207]> I: ----------------------------------------
+[12:02:43][cardinal.py][207]> I: 
+[12:02:43][cardinal.py][232]> I: Получаю данные о лотах и категориях...
+[12:02:43][cardinal.py][241]> I: Получил информацию о лотах аккаунта. Всего категорий: 23.
+[12:02:43][cardinal.py][243]> I: Всего лотов: 127
+[12:02:43][cardinal.py][271]> I: Обновил информацию о профиле, лотах (127) и категориях (23). 
+[12:02:43][cardinal.py][277]> I: Обновлена информация об активных лотах (127) для ПУ TG.
+[12:02:43][cardinal.py][470]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[12:02:43][cardinal.py][485]> I: Цикл обновления данных аккаунта запущен.
+[12:02:43][runner.py][95]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 6737832, 'tag': '31mgkua6', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 6737832, 'tag': 'd5m10ico', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=61587287" class="contact-item" data-id="61587287">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">jecer</div>\n                            <div class="contact-item-message">Я на первый раз всегда замену выдаю</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=64075453" class="contact-item" data-id="64075453">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/c6/kh/c6khi9cwsojim9hkd9ia.jpg);"></div>\n            </div>\n            <div class="media-user-name">WoTGolD5</div>\n                            <div class="contact-item-message">удачи)</div>\n                <div class="contact-item-time">28.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63445373" class="contact-item" data-id="63445373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/3a/ky/3akyl2votjr5zvw568i5.jpg);"></div>\n            </div>\n            <div class="media-user-name">Nmore</div>\n                            <div class="contact-item-message">Благодарю</div>\n                <div class="contact-item-time">27.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63866226" class="contact-item" data-id="63866226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/x3/6a/x36a0usgtmoo0yguwp24.jpg);"></div>\n            </div>\n            <div class="media-user-name">JJoojo</div>\n                            <div class="contact-item-message">Привет, делаю замену только в случае бана в течении недели после выдачи аккаунта</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63820911" class="contact-item" data-id="63820911">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1231331</div>\n                            <div class="contact-item-message">Накручиваю перед выдачей</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63803510" class="contact-item" data-id="63803510">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">halzen</div>\n                            <div class="contact-item-message">oh</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63510766" class="contact-item" data-id="63510766">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">aspad1</div>\n                            <div class="contact-item-message">Привет, можешь покупать, но делаю следующим образом\xa0— кручу 500 лямов, потом после того как они кончаться я докручиваю дальше, абсолютно бесплатно. Просто как показывает практика, аккаунты с выше 1 миллардом живут не больше двух дней, да и все 5 лярд</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63491497" class="contact-item" data-id="63491497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sup717</div>\n                            <div class="contact-item-message">Покупатель sup717 подтвердил успешное выполнение заказа #TK1SWRBN и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63455162" class="contact-item" data-id="63455162">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Erbu</div>\n                            <div class="contact-item-message">with 1 billion modded money account will get banned in like two days, so what I offer my clients is to boost balance to about 500 mills and then, after they spend those money I boost them more for free</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63403299" class="contact-item" data-id="63403299">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">int4545668</div>\n                            <div class="contact-item-message">ну вот</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63366184" class="contact-item" data-id="63366184">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">wenterone</div>\n                            <div class="contact-item-message">Покупатель wenterone написал отзыв к заказу #FRE1BYN8.</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62740436" class="contact-item" data-id="62740436">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/yh/m4/yhm4yn01s50zgkdyydsl.jpg);"></div>\n            </div>\n            <div class="media-user-name">ArtemEvochkin</div>\n                            <div class="contact-item-message">Данные для входа в Epic Games:\nughdnfqphojjbyp@rambler.ru\nQwerty12213456\n\nДанные для входа в почту:\nughdnfqphojjbyp@rambler.ru\nBFwnB2eM3HVfiNgvlLA4sosz6fiX</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63139813" class="contact-item" data-id="63139813">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cr1meeS</div>\n                            <div class="contact-item-message">получилось зайти?</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733025" class="contact-item" data-id="62733025">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1337228</div>\n                            <div class="contact-item-message">Покупатель sult1337228 подтвердил успешное выполнение заказа #B8G4VWRB и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63206423" class="contact-item" data-id="63206423">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ip/ud/ipudqq30qkcciz0m24ii.jpg);"></div>\n            </div>\n            <div class="media-user-name">Prometheus978</div>\n                            <div class="contact-item-message">??</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63205931" class="contact-item" data-id="63205931">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cezar1432</div>\n                            <div class="contact-item-message">yup</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63195619" class="contact-item" data-id="63195619">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ln/ks/lnksegzzwq88v4f4xnix.jpg);"></div>\n            </div>\n            <div class="media-user-name">Dimakills11</div>\n                            <div class="contact-item-message">Блин печально</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63186623" class="contact-item" data-id="63186623">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/km/va/kmvaejclo9poxvdnbnn6.jpg);"></div>\n            </div>\n            <div class="media-user-name">V1t3k</div>\n                            <div class="contact-item-message">человек уже купил, но ещё не подтвердил</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63142111" class="contact-item" data-id="63142111">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">DunkerCSGO</div>\n                            <div class="contact-item-message">Пополнением аргентины не занимаюсь, но купить смогу</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63096173" class="contact-item" data-id="63096173">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Krevetka343</div>\n                            <div class="contact-item-message">Покупатель Krevetka343 написал отзыв к заказу #U5A61WYN.</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62959974" class="contact-item" data-id="62959974">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Fr1ezy</div>\n                            <div class="contact-item-message">Ok брат спасибо</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62958255" class="contact-item" data-id="62958255">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/o8/2t/o82tcfc9hbb75iisspac.jpg);"></div>\n            </div>\n            <div class="media-user-name">suseJboy</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62843805" class="contact-item" data-id="62843805">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1333</div>\n                            <div class="contact-item-message">Покупатель sult1333 подтвердил успешное выполнение заказа #Z5ML4STE и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62875600" class="contact-item" data-id="62875600">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Asimp</div>\n                            <div class="contact-item-message">если не боитесь\xa0— покупайте, сделаю</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733359" class="contact-item" data-id="62733359">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6h/pd/6hpd6g3qqzcrbv39aixe.jpg);"></div>\n            </div>\n            <div class="media-user-name">tenka1</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #C7R46EXU.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62732839" class="contact-item" data-id="62732839">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ogbro</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #YH5CBRJ2.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62716632" class="contact-item" data-id="62716632">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">IgorekSokolov</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #JAAFQ8W7.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62709536" class="contact-item" data-id="62709536">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/sn/xu/snxue09nm2pzrhbcpsku.jpg);"></div>\n            </div>\n            <div class="media-user-name">arbal3st</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62648238" class="contact-item" data-id="62648238">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Damir29990900</div>\n                            <div class="contact-item-message">передумал?)</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62626419" class="contact-item" data-id="62626419">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">PROGER555</div>\n                            <div class="contact-item-message">за гарантию*</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62550797" class="contact-item" data-id="62550797">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">vladimirvavian</div>\n                            <div class="contact-item-message">Не, я за 2200 видел 15 айя</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62530979" class="contact-item" data-id="62530979">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Gte254</div>\n                            <div class="contact-item-message">:)</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62121553" class="contact-item" data-id="62121553">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cosmos656</div>\n                            <div class="contact-item-message">Понял</div>\n                <div class="contact-item-time">06.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60561134" class="contact-item" data-id="60561134">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flaud228</div>\n                            <div class="contact-item-message">Хорошо, я понял</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61925263" class="contact-item" data-id="61925263">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">LAGANPIk</div>\n                            <div class="contact-item-message">Нет, это акк для сошиал клаб</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61863493" class="contact-item" data-id="61863493">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kf/t5/kft5aktq7lva2rr7mocz.jpg);"></div>\n            </div>\n            <div class="media-user-name">Tonisd</div>\n                            <div class="contact-item-message">в рп денег нет</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61792373" class="contact-item" data-id="61792373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/tk/r5/tkr57wszoma3gnbpm5b3.jpg);"></div>\n            </div>\n            <div class="media-user-name">Sevaka121</div>\n                            <div class="contact-item-message">Привет, да.</div>\n                <div class="contact-item-time">03.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466497" class="contact-item" data-id="61466497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">KawaiiNN</div>\n                            <div class="contact-item-message">Продавец FleemShop вернул деньги покупателю KawaiiNN по заказу #HZ77GXVS.</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466688" class="contact-item" data-id="61466688">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ha/fx/hafxgioqcjeellnw4zw5.jpg);"></div>\n            </div>\n            <div class="media-user-name">MortalSIlence</div>\n                            <div class="contact-item-message">ну то есть взломанные</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60502746" class="contact-item" data-id="60502746">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Honor249</div>\n                            <div class="contact-item-message">Да к вам никаких притензий мне кажется нет смысла после бана накручивать так как снова в бан кинут</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=59790561" class="contact-item" data-id="59790561">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">L1l0</div>\n                            <div class="contact-item-message">спасибо</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61148193" class="contact-item" data-id="61148193">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Seva2068</div>\n                            <div class="contact-item-message">здравствуйте можно скрин акка</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61062013" class="contact-item" data-id="61062013">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/wk/mb/wkmbcsv3yn6qy3ujzv09.jpg);"></div>\n            </div>\n            <div class="media-user-name">Cosmos101</div>\n                            <div class="contact-item-message">Точно не могу сказать, в ближайем будущем завоз не предвидится</div>\n                <div class="contact-item-time">26.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60959325" class="contact-item" data-id="60959325">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/qi/qz/qiqzp0dsluu3lc38pivb.jpeg);"></div>\n            </div>\n            <div class="media-user-name">RinoMas</div>\n                            <div class="contact-item-message">Всё равно спасибо</div>\n                <div class="contact-item-time">25.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60905835" class="contact-item" data-id="60905835">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill10273638282</div>\n                            <div class="contact-item-message">Жаль</div>\n                <div class="contact-item-time">24.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694785" class="contact-item" data-id="60694785">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1661Kova</div>\n                            <div class="contact-item-message">онлайн конечно же</div>\n                <div class="contact-item-time">23.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694566" class="contact-item" data-id="60694566">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">GWGWGwgwg</div>\n                            <div class="contact-item-message">а так же почта к нему</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60690940" class="contact-item" data-id="60690940">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ggranelgg</div>\n                            <div class="contact-item-message">Вам спасибо, облегчили мою игру )</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60565932" class="contact-item" data-id="60565932">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6k/u9/6ku9xdrdcg53y3rmnr5w.jpg);"></div>\n            </div>\n            <div class="media-user-name">Thecool228</div>\n                            <div class="contact-item-message">Здравствуйте, могут, но накручиваю приватным софтом, так что шанс бана низок</div>\n                <div class="contact-item-time">21.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60348226" class="contact-item" data-id="60348226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/av/9t/av9tuvhx1jg9yyj4aacz.jpg);"></div>\n            </div>\n            <div class="media-user-name">vip1x</div>\n                            <div class="contact-item-message">2 минуты после захода</div>\n                <div class="contact-item-time">18.03</div>\n                    </a>\n    </div>'}}], 'response': False}
+[12:02:44][cardinal.py][324]> W: Не удалось поднять лоты категории "Assassin’s Creed". FunPay говорит подождать еще 3ч.
+[12:02:44][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:45][cardinal.py][324]> W: Не удалось поднять лоты категории "Atomic Heart". FunPay говорит подождать еще 3ч.
+[12:02:45][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:45][cardinal.py][324]> W: Не удалось поднять лоты категории "Back 4 Blood". FunPay говорит подождать еще 3ч.
+[12:02:45][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:46][cardinal.py][324]> W: Не удалось поднять лоты категории "Battlefield". FunPay говорит подождать еще 3ч.
+[12:02:46][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:47][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty (Прочие)". FunPay говорит подождать еще 3ч.
+[12:02:47][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:48][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty Warzone". FunPay говорит подождать еще 3ч.
+[12:02:48][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:48][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:02:48][cardinal.py][324]> W: Не удалось поднять лоты категории "CarX Drift Racing". FunPay говорит подождать еще 3ч.
+[12:02:48][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:49][cardinal.py][324]> W: Не удалось поднять лоты категории "Chivalry 2". FunPay говорит подождать еще 3ч.
+[12:02:49][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:50][cardinal.py][324]> W: Не удалось поднять лоты категории "Counter-Strike: GO". FunPay говорит подождать еще 3ч.
+[12:02:50][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:51][cardinal.py][324]> W: Не удалось поднять лоты категории "Cyberpunk 2077". FunPay говорит подождать еще 3ч.
+[12:02:51][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:51][cardinal.py][324]> W: Не удалось поднять лоты категории "DayZ". FunPay говорит подождать еще 3ч.
+[12:02:51][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:52][cardinal.py][324]> W: Не удалось поднять лоты категории "Dead by Daylight". FunPay говорит подождать еще 3ч.
+[12:02:52][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:02:53][cardinal.py][324]> W: Не удалось поднять лоты категории "Destiny 2". FunPay говорит подождать еще 3ч.
+[12:02:53][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:54][cardinal.py][324]> W: Не удалось поднять лоты категории "Elder Scrolls (TESO)". FunPay говорит подождать еще 3ч.
+[12:02:54][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:54][cardinal.py][324]> W: Не удалось поднять лоты категории "Epic Games". FunPay говорит подождать еще 3ч.
+[12:02:54][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:55][cardinal.py][324]> W: Не удалось поднять лоты категории "GTA 5 Online". FunPay говорит подождать еще 3ч.
+[12:02:55][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:56][cardinal.py][324]> W: Не удалось поднять лоты категории "Steam". FunPay говорит подождать еще 2ч.
+[12:02:56][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:02:56][cardinal.py][324]> W: Не удалось поднять лоты категории "Warframe". FunPay говорит подождать еще 3ч.
+[12:02:56][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:02:57][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:03:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:03:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:03:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:11][main.py][69]> D: -------------------Новый запуск.-------------------
+[12:33:11][main.py][87]> I: Загружаю конфиг _main.cfg...
+[12:33:11][main.py][90]> I: Загружаю конфиг auto_response.cfg...
+[12:33:11][main.py][94]> I: Загружаю конфиг auto_delivery.cfg...
+[12:33:11][cardinal.py][661]> I: Хэндлеры из handlers.py зарегистрированы.
+[12:33:11][cardinal.py][661]> I: Хэндлеры из announcements.py зарегистрированы.
+[12:33:11][cardinal.py][661]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[12:33:11][cardinal.py][661]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[12:33:11][cardinal.py][661]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[12:33:12][bot.py][1137]> I: Telegram бот инициализирован.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[12:33:12][cardinal.py][661]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[12:33:12][bot.py][1154]> I: Telegram бот @bhfjvfbvjhdvfbot запущен.
+[12:33:13][cardinal.py][207]> I: 
+[12:33:13][cardinal.py][207]> I: ----------------------------------------
+[12:33:13][cardinal.py][207]> I: * Добрый день, FleemShop.              *
+[12:33:13][cardinal.py][207]> I: * Ваш ID: 6737832.                     *
+[12:33:13][cardinal.py][207]> I: * Ваш текущий баланс: 2352.0 ₽.        *
+[12:33:13][cardinal.py][207]> I: * Текущие незавершенные сделки: 0.     *
+[12:33:13][cardinal.py][207]> I: * Удачной торговли!                    *
+[12:33:13][cardinal.py][207]> I: ----------------------------------------
+[12:33:13][cardinal.py][207]> I: 
+[12:33:13][cardinal.py][232]> I: Получаю данные о лотах и категориях...
+[12:33:13][cardinal.py][241]> I: Получил информацию о лотах аккаунта. Всего категорий: 23.
+[12:33:13][cardinal.py][243]> I: Всего лотов: 127
+[12:33:13][cardinal.py][271]> I: Обновил информацию о профиле, лотах (127) и категориях (23). 
+[12:33:13][cardinal.py][277]> I: Обновлена информация об активных лотах (127) для ПУ TG.
+[12:33:13][cardinal.py][470]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[12:33:13][cardinal.py][485]> I: Цикл обновления данных аккаунта запущен.
+[12:33:13][runner.py][95]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 6737832, 'tag': '31mgkua6', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 6737832, 'tag': 'd5m10ico', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=61587287" class="contact-item" data-id="61587287">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">jecer</div>\n                            <div class="contact-item-message">Я на первый раз всегда замену выдаю</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=64075453" class="contact-item" data-id="64075453">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/c6/kh/c6khi9cwsojim9hkd9ia.jpg);"></div>\n            </div>\n            <div class="media-user-name">WoTGolD5</div>\n                            <div class="contact-item-message">удачи)</div>\n                <div class="contact-item-time">28.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63445373" class="contact-item" data-id="63445373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/3a/ky/3akyl2votjr5zvw568i5.jpg);"></div>\n            </div>\n            <div class="media-user-name">Nmore</div>\n                            <div class="contact-item-message">Благодарю</div>\n                <div class="contact-item-time">27.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63866226" class="contact-item" data-id="63866226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/x3/6a/x36a0usgtmoo0yguwp24.jpg);"></div>\n            </div>\n            <div class="media-user-name">JJoojo</div>\n                            <div class="contact-item-message">Привет, делаю замену только в случае бана в течении недели после выдачи аккаунта</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63820911" class="contact-item" data-id="63820911">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1231331</div>\n                            <div class="contact-item-message">Накручиваю перед выдачей</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63803510" class="contact-item" data-id="63803510">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">halzen</div>\n                            <div class="contact-item-message">oh</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63510766" class="contact-item" data-id="63510766">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">aspad1</div>\n                            <div class="contact-item-message">Привет, можешь покупать, но делаю следующим образом\xa0— кручу 500 лямов, потом после того как они кончаться я докручиваю дальше, абсолютно бесплатно. Просто как показывает практика, аккаунты с выше 1 миллардом живут не больше двух дней, да и все 5 лярд</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63491497" class="contact-item" data-id="63491497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sup717</div>\n                            <div class="contact-item-message">Покупатель sup717 подтвердил успешное выполнение заказа #TK1SWRBN и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63455162" class="contact-item" data-id="63455162">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Erbu</div>\n                            <div class="contact-item-message">with 1 billion modded money account will get banned in like two days, so what I offer my clients is to boost balance to about 500 mills and then, after they spend those money I boost them more for free</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63403299" class="contact-item" data-id="63403299">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">int4545668</div>\n                            <div class="contact-item-message">ну вот</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63366184" class="contact-item" data-id="63366184">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">wenterone</div>\n                            <div class="contact-item-message">Покупатель wenterone написал отзыв к заказу #FRE1BYN8.</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62740436" class="contact-item" data-id="62740436">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/yh/m4/yhm4yn01s50zgkdyydsl.jpg);"></div>\n            </div>\n            <div class="media-user-name">ArtemEvochkin</div>\n                            <div class="contact-item-message">Данные для входа в Epic Games:\nughdnfqphojjbyp@rambler.ru\nQwerty12213456\n\nДанные для входа в почту:\nughdnfqphojjbyp@rambler.ru\nBFwnB2eM3HVfiNgvlLA4sosz6fiX</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63139813" class="contact-item" data-id="63139813">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cr1meeS</div>\n                            <div class="contact-item-message">получилось зайти?</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733025" class="contact-item" data-id="62733025">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1337228</div>\n                            <div class="contact-item-message">Покупатель sult1337228 подтвердил успешное выполнение заказа #B8G4VWRB и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63206423" class="contact-item" data-id="63206423">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ip/ud/ipudqq30qkcciz0m24ii.jpg);"></div>\n            </div>\n            <div class="media-user-name">Prometheus978</div>\n                            <div class="contact-item-message">??</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63205931" class="contact-item" data-id="63205931">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cezar1432</div>\n                            <div class="contact-item-message">yup</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63195619" class="contact-item" data-id="63195619">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ln/ks/lnksegzzwq88v4f4xnix.jpg);"></div>\n            </div>\n            <div class="media-user-name">Dimakills11</div>\n                            <div class="contact-item-message">Блин печально</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63186623" class="contact-item" data-id="63186623">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/km/va/kmvaejclo9poxvdnbnn6.jpg);"></div>\n            </div>\n            <div class="media-user-name">V1t3k</div>\n                            <div class="contact-item-message">человек уже купил, но ещё не подтвердил</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63142111" class="contact-item" data-id="63142111">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">DunkerCSGO</div>\n                            <div class="contact-item-message">Пополнением аргентины не занимаюсь, но купить смогу</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63096173" class="contact-item" data-id="63096173">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Krevetka343</div>\n                            <div class="contact-item-message">Покупатель Krevetka343 написал отзыв к заказу #U5A61WYN.</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62959974" class="contact-item" data-id="62959974">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Fr1ezy</div>\n                            <div class="contact-item-message">Ok брат спасибо</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62958255" class="contact-item" data-id="62958255">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/o8/2t/o82tcfc9hbb75iisspac.jpg);"></div>\n            </div>\n            <div class="media-user-name">suseJboy</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62843805" class="contact-item" data-id="62843805">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1333</div>\n                            <div class="contact-item-message">Покупатель sult1333 подтвердил успешное выполнение заказа #Z5ML4STE и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62875600" class="contact-item" data-id="62875600">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Asimp</div>\n                            <div class="contact-item-message">если не боитесь\xa0— покупайте, сделаю</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733359" class="contact-item" data-id="62733359">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6h/pd/6hpd6g3qqzcrbv39aixe.jpg);"></div>\n            </div>\n            <div class="media-user-name">tenka1</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #C7R46EXU.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62732839" class="contact-item" data-id="62732839">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ogbro</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #YH5CBRJ2.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62716632" class="contact-item" data-id="62716632">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">IgorekSokolov</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #JAAFQ8W7.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62709536" class="contact-item" data-id="62709536">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/sn/xu/snxue09nm2pzrhbcpsku.jpg);"></div>\n            </div>\n            <div class="media-user-name">arbal3st</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62648238" class="contact-item" data-id="62648238">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Damir29990900</div>\n                            <div class="contact-item-message">передумал?)</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62626419" class="contact-item" data-id="62626419">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">PROGER555</div>\n                            <div class="contact-item-message">за гарантию*</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62550797" class="contact-item" data-id="62550797">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">vladimirvavian</div>\n                            <div class="contact-item-message">Не, я за 2200 видел 15 айя</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62530979" class="contact-item" data-id="62530979">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Gte254</div>\n                            <div class="contact-item-message">:)</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62121553" class="contact-item" data-id="62121553">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cosmos656</div>\n                            <div class="contact-item-message">Понял</div>\n                <div class="contact-item-time">06.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60561134" class="contact-item" data-id="60561134">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flaud228</div>\n                            <div class="contact-item-message">Хорошо, я понял</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61925263" class="contact-item" data-id="61925263">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">LAGANPIk</div>\n                            <div class="contact-item-message">Нет, это акк для сошиал клаб</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61863493" class="contact-item" data-id="61863493">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kf/t5/kft5aktq7lva2rr7mocz.jpg);"></div>\n            </div>\n            <div class="media-user-name">Tonisd</div>\n                            <div class="contact-item-message">в рп денег нет</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61792373" class="contact-item" data-id="61792373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/tk/r5/tkr57wszoma3gnbpm5b3.jpg);"></div>\n            </div>\n            <div class="media-user-name">Sevaka121</div>\n                            <div class="contact-item-message">Привет, да.</div>\n                <div class="contact-item-time">03.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466497" class="contact-item" data-id="61466497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">KawaiiNN</div>\n                            <div class="contact-item-message">Продавец FleemShop вернул деньги покупателю KawaiiNN по заказу #HZ77GXVS.</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466688" class="contact-item" data-id="61466688">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ha/fx/hafxgioqcjeellnw4zw5.jpg);"></div>\n            </div>\n            <div class="media-user-name">MortalSIlence</div>\n                            <div class="contact-item-message">ну то есть взломанные</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60502746" class="contact-item" data-id="60502746">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Honor249</div>\n                            <div class="contact-item-message">Да к вам никаких притензий мне кажется нет смысла после бана накручивать так как снова в бан кинут</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=59790561" class="contact-item" data-id="59790561">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">L1l0</div>\n                            <div class="contact-item-message">спасибо</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61148193" class="contact-item" data-id="61148193">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Seva2068</div>\n                            <div class="contact-item-message">здравствуйте можно скрин акка</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61062013" class="contact-item" data-id="61062013">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/wk/mb/wkmbcsv3yn6qy3ujzv09.jpg);"></div>\n            </div>\n            <div class="media-user-name">Cosmos101</div>\n                            <div class="contact-item-message">Точно не могу сказать, в ближайем будущем завоз не предвидится</div>\n                <div class="contact-item-time">26.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60959325" class="contact-item" data-id="60959325">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/qi/qz/qiqzp0dsluu3lc38pivb.jpeg);"></div>\n            </div>\n            <div class="media-user-name">RinoMas</div>\n                            <div class="contact-item-message">Всё равно спасибо</div>\n                <div class="contact-item-time">25.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60905835" class="contact-item" data-id="60905835">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill10273638282</div>\n                            <div class="contact-item-message">Жаль</div>\n                <div class="contact-item-time">24.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694785" class="contact-item" data-id="60694785">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1661Kova</div>\n                            <div class="contact-item-message">онлайн конечно же</div>\n                <div class="contact-item-time">23.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694566" class="contact-item" data-id="60694566">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">GWGWGwgwg</div>\n                            <div class="contact-item-message">а так же почта к нему</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60690940" class="contact-item" data-id="60690940">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ggranelgg</div>\n                            <div class="contact-item-message">Вам спасибо, облегчили мою игру )</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60565932" class="contact-item" data-id="60565932">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6k/u9/6ku9xdrdcg53y3rmnr5w.jpg);"></div>\n            </div>\n            <div class="media-user-name">Thecool228</div>\n                            <div class="contact-item-message">Здравствуйте, могут, но накручиваю приватным софтом, так что шанс бана низок</div>\n                <div class="contact-item-time">21.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60348226" class="contact-item" data-id="60348226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/av/9t/av9tuvhx1jg9yyj4aacz.jpg);"></div>\n            </div>\n            <div class="media-user-name">vip1x</div>\n                            <div class="contact-item-message">2 минуты после захода</div>\n                <div class="contact-item-time">18.03</div>\n                    </a>\n    </div>'}}], 'response': False}
+[12:33:14][cardinal.py][324]> W: Не удалось поднять лоты категории "Assassin’s Creed". FunPay говорит подождать еще 2ч.
+[12:33:14][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:33:15][cardinal.py][324]> W: Не удалось поднять лоты категории "Atomic Heart". FunPay говорит подождать еще 2ч.
+[12:33:15][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:33:15][cardinal.py][324]> W: Не удалось поднять лоты категории "Back 4 Blood". FunPay говорит подождать еще 3ч.
+[12:33:15][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:16][cardinal.py][324]> W: Не удалось поднять лоты категории "Battlefield". FunPay говорит подождать еще 3ч.
+[12:33:16][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:17][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty (Прочие)". FunPay говорит подождать еще 3ч.
+[12:33:17][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:18][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty Warzone". FunPay говорит подождать еще 3ч.
+[12:33:18][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:18][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:18][cardinal.py][324]> W: Не удалось поднять лоты категории "CarX Drift Racing". FunPay говорит подождать еще 3ч.
+[12:33:18][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:19][bot.py][258]> W: Пользователь @fvckoffkid (id: 461874530) попытался получить доступ к Telegram ПУ. Сдерживаю его как могу!
+[12:33:19][cardinal.py][324]> W: Не удалось поднять лоты категории "Chivalry 2". FunPay говорит подождать еще 3ч.
+[12:33:19][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:20][cardinal.py][324]> W: Не удалось поднять лоты категории "Counter-Strike: GO". FunPay говорит подождать еще 3ч.
+[12:33:20][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:21][cardinal.py][324]> W: Не удалось поднять лоты категории "Cyberpunk 2077". FunPay говорит подождать еще 3ч.
+[12:33:21][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:21][cardinal.py][324]> W: Не удалось поднять лоты категории "DayZ". FunPay говорит подождать еще 3ч.
+[12:33:21][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:22][cardinal.py][324]> W: Не удалось поднять лоты категории "Dead by Daylight". FunPay говорит подождать еще 3ч.
+[12:33:22][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:23][cardinal.py][324]> W: Не удалось поднять лоты категории "Destiny 2". FunPay говорит подождать еще 3ч.
+[12:33:23][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:23][bot.py][252]> W: Пользователь @fvckoffkid (id: 461874530) ПОЛУЧИЛ ДОСТУП К TELEGRAM ПУ!
+[12:33:23][cardinal.py][324]> W: Не удалось поднять лоты категории "Elder Scrolls (TESO)". FunPay говорит подождать еще 3ч.
+[12:33:23][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:24][cardinal.py][324]> W: Не удалось поднять лоты категории "Epic Games". FunPay говорит подождать еще 3ч.
+[12:33:24][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:25][cardinal.py][324]> W: Не удалось поднять лоты категории "GTA 5 Online". FunPay говорит подождать еще 3ч.
+[12:33:25][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:26][cardinal.py][324]> W: Не удалось поднять лоты категории "Steam". FunPay говорит подождать еще 1ч.
+[12:33:26][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите час.', 'error': 1}
+[12:33:26][cardinal.py][324]> W: Не удалось поднять лоты категории "Warframe". FunPay говорит подождать еще 3ч.
+[12:33:26][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 3 часа.', 'error': 1}
+[12:33:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:31][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:34][bot.py][919]> I: Пользователь @fvckoffkid (id: 461874530) изменил параметр autoDelivery секции [FunPay] основного конфига на 1.
+[12:33:35][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:35][bot.py][919]> I: Пользователь @fvckoffkid (id: 461874530) изменил параметр autoDelivery секции [FunPay] основного конфига на 0.
+[12:33:39][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:41][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 2 для чата 461874530 на True.
+[12:33:42][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 4 для чата 461874530 на True.
+[12:33:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:45][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 3 для чата 461874530 на True.
+[12:33:45][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 5 для чата 461874530 на True.
+[12:33:48][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:48][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 5 для чата 461874530 на False.
+[12:33:49][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 3 для чата 461874530 на False.
+[12:33:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:52][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 7 для чата 461874530 на True.
+[12:33:55][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 8 для чата 461874530 на True.
+[12:33:56][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 5 для чата 461874530 на True.
+[12:33:56][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:33:57][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 5r для чата 461874530 на True.
+[12:33:58][bot.py][930]> I: Пользователь @fvckoffkid (id: 461874530) переключил уведомления 1 для чата 461874530 на True.
+[12:34:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:13][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:26][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:30][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:34][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:47][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:51][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:34:52][bot.py][919]> I: Пользователь @fvckoffkid (id: 461874530) изменил параметр star5Reply секции [ReviewReply] основного конфига на 1.
+[12:34:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:04][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:08][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:21][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:25][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:29][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:42][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:46][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:54][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:35:59][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:03][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:07][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:11][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:20][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:24][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:32][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:37][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:41][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:45][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:49][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:54][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:36:56][bot.py][758]> I: Пользователь @fvckoffkid (id: 461874530) изменил текст ответа на отзыв с 5 зв. на Спасибо за покупку, юзернейм! ❤️$order_title.
+[12:36:58][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:02][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:06][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:10][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:15][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:19][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:23][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:32][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:36][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:40][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:42][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18137719.
+[12:37:43][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18137702.
+[12:37:43][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18137667.
+[12:37:44][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18137647.
+[12:37:44][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:45][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18137607.
+[12:37:45][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18136740.
+[12:37:46][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18136615.
+[12:37:47][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18136587.
+[12:37:48][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138234.
+[12:37:48][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138198.
+[12:37:49][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:49][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138186.
+[12:37:50][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138338.
+[12:37:51][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138283.
+[12:37:51][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138252.
+[12:37:52][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146757.
+[12:37:53][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:53][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146565.
+[12:37:54][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146541.
+[12:37:54][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146490.
+[12:37:55][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146460.
+[12:37:56][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147097.
+[12:37:57][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18139074.
+[12:37:57][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:37:57][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138971.
+[12:37:58][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138911.
+[12:37:59][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138849.
+[12:37:59][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18138798.
+[12:38:00][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146438.
+[12:38:01][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146338.
+[12:38:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:02][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18146328.
+[12:38:02][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17930963.
+[12:38:03][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17930928.
+[12:38:04][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147316.
+[12:38:05][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147305.
+[12:38:05][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147286.
+[12:38:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:06][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147345.
+[12:38:07][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147339.
+[12:38:08][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147330.
+[12:38:08][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147377.
+[12:38:09][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147410.
+[12:38:10][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:10][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147435.
+[12:38:11][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147449.
+[12:38:11][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18148104.
+[12:38:12][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18148079.
+[12:38:13][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18148052.
+[12:38:14][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18148007.
+[12:38:14][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:14][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147655.
+[12:38:15][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147620.
+[12:38:16][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147609.
+[12:38:17][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147596.
+[12:38:17][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147576.
+[12:38:18][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147545.
+[12:38:18][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:19][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147534.
+[12:38:19][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18147511.
+[12:38:20][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18168909.
+[12:38:21][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18168902.
+[12:38:22][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18168896.
+[12:38:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:22][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18168890.
+[12:38:23][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18168849.
+[12:38:24][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284412.
+[12:38:25][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284386.
+[12:38:25][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284353.
+[12:38:26][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284311.
+[12:38:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:27][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284231.
+[12:38:28][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284203.
+[12:38:28][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284187.
+[12:38:29][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284141.
+[12:38:30][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284108.
+[12:38:30][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18284036.
+[12:38:31][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:31][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18283860.
+[12:38:32][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18283804.
+[12:38:33][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 18283731.
+[12:38:33][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17022646.
+[12:38:34][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17022438.
+[12:38:35][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17022379.
+[12:38:35][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:36][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17018556.
+[12:38:36][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17018532.
+[12:38:37][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17018490.
+[12:38:38][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17018450.
+[12:38:39][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17018331.
+[12:38:39][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:39][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17302326.
+[12:38:40][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029690.
+[12:38:41][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029653.
+[12:38:42][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029587.
+[12:38:42][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029516.
+[12:38:43][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029384.
+[12:38:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:44][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029333.
+[12:38:44][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029221.
+[12:38:45][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029202.
+[12:38:46][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029186.
+[12:38:47][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17029163.
+[12:38:47][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17023130.
+[12:38:48][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:48][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17023070.
+[12:38:49][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17023014.
+[12:38:50][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17022852.
+[12:38:50][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283406.
+[12:38:51][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283391.
+[12:38:52][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283363.
+[12:38:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:53][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283286.
+[12:38:53][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283262.
+[12:38:54][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283225.
+[12:38:55][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283182.
+[12:38:56][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17283127.
+[12:38:56][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:38:56][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17282945.
+[12:38:57][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17282827.
+[12:38:58][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280453.
+[12:38:59][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280316.
+[12:38:59][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280272.
+[12:39:00][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280251.
+[12:39:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:01][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280221.
+[12:39:01][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280186.
+[12:39:02][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17280128.
+[12:39:03][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909597.
+[12:39:04][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909584.
+[12:39:04][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909565.
+[12:39:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:05][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909545.
+[12:39:06][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909530.
+[12:39:07][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909508.
+[12:39:07][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17909471.
+[12:39:08][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17449924.
+[12:39:09][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17449809.
+[12:39:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:10][copy_lots_plugin.py][134]> I: [LOTS COPY] Получил данные о лоте 17449663.
+[12:39:10][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887975.
+[12:39:10][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:13][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887975.
+[12:39:13][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:13][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:15][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887975.
+[12:39:15][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:18][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887939.
+[12:39:18][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:20][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887939.
+[12:39:20][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:23][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887939.
+[12:39:23][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:26][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:26][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887890.
+[12:39:26][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:28][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887890.
+[12:39:28][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:30][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:30][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887890.
+[12:39:30][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:34][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887832.
+[12:39:34][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:34][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:36][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887832.
+[12:39:36][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:38][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887832.
+[12:39:38][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:42][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887722.
+[12:39:42][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:44][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887722.
+[12:39:44][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:46][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887722.
+[12:39:46][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:47][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:50][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887666.
+[12:39:50][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:51][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:52][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887666.
+[12:39:52][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:54][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887666.
+[12:39:54][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:39:57][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887444.
+[12:39:57][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:39:59][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:00][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887444.
+[12:40:00][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:40:02][copy_lots_plugin.py][137]> E: [LOTS COPY] Не удалось получить данные о лоте 17887444.
+[12:40:02][copy_lots_plugin.py][138]> D: TRACEBACK
+Traceback (most recent call last):
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\plugins/copy_lots_plugin.py", line 133, in get_lots_info
+    result.append(cardinal.account.get_lot_fields(i.id, i.subcategory.id))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\L4TE\Desktop\FunPayCardinal-0.0.8.6\FunPayAPI\account.py", line 931, in get_lot_fields
+    result[name] = field.find("option", selected=True)["value"]
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+[12:40:04][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:08][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:21][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:25][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:29][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:42][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:46][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:47][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:48][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:49][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:51][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:52][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:53][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:54][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:54][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:56][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:57][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:58][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:40:59][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:40:59][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:01][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:02][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:03][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:03][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:04][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:06][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:07][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:07][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:08][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:09][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:10][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:12][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:13][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:14][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:15][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:17][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:18][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:19][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:20][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:20][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:22][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:23][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:24][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:24][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:25][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:27][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:28][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:29][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:30][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:31][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:33][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:34][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:35][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:36][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:37][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:38][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:39][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:40][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:41][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:41][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:43][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:44][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:45][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:45][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:46][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:48][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:49][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:50][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:51][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:52][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:54][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:54][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:55][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:56][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:57][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:41:58][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:41:59][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:00][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:01][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:02][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:02][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:04][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:05][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:06][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:06][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:07][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:09][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:10][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:11][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:11][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:12][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:13][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:15][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:15][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:16][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:17][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:18][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:19][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:20][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:21][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:22][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:23][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:23][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:25][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:26][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:27][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:28][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:30][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:31][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:32][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:32][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:33][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:35][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:36][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:36][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:37][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:38][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:40][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:40][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:41][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:42][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:43][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:44][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:45][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:46][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:47][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:48][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:49][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:50][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:51][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:52][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:53][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:53][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:55][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:56][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:57][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:42:57][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:42:58][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:00][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:01][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:02][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:03][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:04][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:06][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:06][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:07][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:08][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:09][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:10][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:11][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:12][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:13][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:14][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:15][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:16][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:17][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:18][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:18][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:19][copy_lots_plugin.py][168]> I: [LOTS COPY] Создал лот 0.
+[12:43:23][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:31][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:35][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:39][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:44][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:48][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:43:56][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:13][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:26][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:30][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:34][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:39][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:47][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:51][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:44:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:04][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:08][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:21][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:25][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:29][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:42][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:46][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:45:59][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:03][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:07][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:20][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:24][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:37][config_loader_cp.py][69]> I: Пользователь @fvckoffkid (id: 461874530) запросил конфиг configs/auto_delivery.cfg.
+[12:46:37][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:41][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:45][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:54][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:46:58][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:02][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:07][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:11][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:15][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:19][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:23][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:32][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:36][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:40][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:45][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:49][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:53][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:47:57][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:06][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:10][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:14][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:19][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:23][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:31][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:35][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:40][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:44][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:48][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:48:57][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:01][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:13][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:18][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:26][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:30][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:35][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:39][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:47][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:49:56][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:04][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:08][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:13][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:21][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:25][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:30][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:34][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:42][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:46][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:51][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:50:59][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:03][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:08][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:12][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:16][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:20][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:25][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:29][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:51:32][main.py][115]> I: Завершаю программу...
+[12:52:07][main.py][69]> D: -------------------Новый запуск.-------------------
+[12:52:07][main.py][87]> I: Загружаю конфиг _main.cfg...
+[12:52:07][main.py][90]> I: Загружаю конфиг auto_response.cfg...
+[12:52:07][main.py][94]> I: Загружаю конфиг auto_delivery.cfg...
+[12:52:07][cardinal.py][115]> I: Обнаружен прокси.
+[12:52:07][cardinal.py][35]> I: Выполняю проверку прокси...
+[12:52:07][cardinal.py][44]> I: Прокси успешно проверен! Запросы к FunPay будут отправлять с IP-адреса 188.74.210.207
+[12:52:07][cardinal.py][661]> I: Хэндлеры из handlers.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из announcements.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[12:52:07][bot.py][1137]> I: Telegram бот инициализирован.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[12:52:07][cardinal.py][661]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[12:52:08][bot.py][1154]> I: Telegram бот @bhfjvfbvjhdvfbot запущен.
+[12:52:09][cardinal.py][207]> I: 
+[12:52:09][cardinal.py][207]> I: ----------------------------------------
+[12:52:09][cardinal.py][207]> I: * Добрый день, FleemShop.              *
+[12:52:09][cardinal.py][207]> I: * Ваш ID: 6737832.                     *
+[12:52:09][cardinal.py][207]> I: * Ваш текущий баланс: 2352.0 ₽.        *
+[12:52:09][cardinal.py][207]> I: * Текущие незавершенные сделки: 0.     *
+[12:52:09][cardinal.py][207]> I: * Удачной торговли!                    *
+[12:52:09][cardinal.py][207]> I: ----------------------------------------
+[12:52:09][cardinal.py][207]> I: 
+[12:52:09][cardinal.py][232]> I: Получаю данные о лотах и категориях...
+[12:52:10][cardinal.py][241]> I: Получил информацию о лотах аккаунта. Всего категорий: 69.
+[12:52:10][cardinal.py][243]> I: Всего лотов: 251
+[12:52:10][cardinal.py][271]> I: Обновил информацию о профиле, лотах (251) и категориях (69). 
+[12:52:10][cardinal.py][277]> I: Обновлена информация об активных лотах (251) для ПУ TG.
+[12:52:11][cardinal.py][470]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[12:52:11][cardinal.py][485]> I: Цикл обновления данных аккаунта запущен.
+[12:52:11][runner.py][95]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 6737832, 'tag': '31mgkua6', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 6737832, 'tag': 'd5m10ico', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=61587287" class="contact-item" data-id="61587287">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">jecer</div>\n                            <div class="contact-item-message">Я на первый раз всегда замену выдаю</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=64075453" class="contact-item" data-id="64075453">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/c6/kh/c6khi9cwsojim9hkd9ia.jpg);"></div>\n            </div>\n            <div class="media-user-name">WoTGolD5</div>\n                            <div class="contact-item-message">удачи)</div>\n                <div class="contact-item-time">28.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63445373" class="contact-item" data-id="63445373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/3a/ky/3akyl2votjr5zvw568i5.jpg);"></div>\n            </div>\n            <div class="media-user-name">Nmore</div>\n                            <div class="contact-item-message">Благодарю</div>\n                <div class="contact-item-time">27.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63866226" class="contact-item" data-id="63866226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/x3/6a/x36a0usgtmoo0yguwp24.jpg);"></div>\n            </div>\n            <div class="media-user-name">JJoojo</div>\n                            <div class="contact-item-message">Привет, делаю замену только в случае бана в течении недели после выдачи аккаунта</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63820911" class="contact-item" data-id="63820911">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1231331</div>\n                            <div class="contact-item-message">Накручиваю перед выдачей</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63803510" class="contact-item" data-id="63803510">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">halzen</div>\n                            <div class="contact-item-message">oh</div>\n                <div class="contact-item-time">25.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63510766" class="contact-item" data-id="63510766">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">aspad1</div>\n                            <div class="contact-item-message">Привет, можешь покупать, но делаю следующим образом\xa0— кручу 500 лямов, потом после того как они кончаться я докручиваю дальше, абсолютно бесплатно. Просто как показывает практика, аккаунты с выше 1 миллардом живут не больше двух дней, да и все 5 лярд</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63491497" class="contact-item" data-id="63491497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sup717</div>\n                            <div class="contact-item-message">Покупатель sup717 подтвердил успешное выполнение заказа #TK1SWRBN и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63455162" class="contact-item" data-id="63455162">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Erbu</div>\n                            <div class="contact-item-message">with 1 billion modded money account will get banned in like two days, so what I offer my clients is to boost balance to about 500 mills and then, after they spend those money I boost them more for free</div>\n                <div class="contact-item-time">21.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63403299" class="contact-item" data-id="63403299">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">int4545668</div>\n                            <div class="contact-item-message">ну вот</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63366184" class="contact-item" data-id="63366184">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">wenterone</div>\n                            <div class="contact-item-message">Покупатель wenterone написал отзыв к заказу #FRE1BYN8.</div>\n                <div class="contact-item-time">20.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62740436" class="contact-item" data-id="62740436">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/yh/m4/yhm4yn01s50zgkdyydsl.jpg);"></div>\n            </div>\n            <div class="media-user-name">ArtemEvochkin</div>\n                            <div class="contact-item-message">Данные для входа в Epic Games:\nughdnfqphojjbyp@rambler.ru\nQwerty12213456\n\nДанные для входа в почту:\nughdnfqphojjbyp@rambler.ru\nBFwnB2eM3HVfiNgvlLA4sosz6fiX</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63139813" class="contact-item" data-id="63139813">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cr1meeS</div>\n                            <div class="contact-item-message">получилось зайти?</div>\n                <div class="contact-item-time">19.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733025" class="contact-item" data-id="62733025">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1337228</div>\n                            <div class="contact-item-message">Покупатель sult1337228 подтвердил успешное выполнение заказа #B8G4VWRB и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63206423" class="contact-item" data-id="63206423">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ip/ud/ipudqq30qkcciz0m24ii.jpg);"></div>\n            </div>\n            <div class="media-user-name">Prometheus978</div>\n                            <div class="contact-item-message">??</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63205931" class="contact-item" data-id="63205931">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cezar1432</div>\n                            <div class="contact-item-message">yup</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63195619" class="contact-item" data-id="63195619">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ln/ks/lnksegzzwq88v4f4xnix.jpg);"></div>\n            </div>\n            <div class="media-user-name">Dimakills11</div>\n                            <div class="contact-item-message">Блин печально</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63186623" class="contact-item" data-id="63186623">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/km/va/kmvaejclo9poxvdnbnn6.jpg);"></div>\n            </div>\n            <div class="media-user-name">V1t3k</div>\n                            <div class="contact-item-message">человек уже купил, но ещё не подтвердил</div>\n                <div class="contact-item-time">18.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63142111" class="contact-item" data-id="63142111">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">DunkerCSGO</div>\n                            <div class="contact-item-message">Пополнением аргентины не занимаюсь, но купить смогу</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=63096173" class="contact-item" data-id="63096173">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Krevetka343</div>\n                            <div class="contact-item-message">Покупатель Krevetka343 написал отзыв к заказу #U5A61WYN.</div>\n                <div class="contact-item-time">17.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62959974" class="contact-item" data-id="62959974">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Fr1ezy</div>\n                            <div class="contact-item-message">Ok брат спасибо</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62958255" class="contact-item" data-id="62958255">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/o8/2t/o82tcfc9hbb75iisspac.jpg);"></div>\n            </div>\n            <div class="media-user-name">suseJboy</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">15.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62843805" class="contact-item" data-id="62843805">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">sult1333</div>\n                            <div class="contact-item-message">Покупатель sult1333 подтвердил успешное выполнение заказа #Z5ML4STE и отправил деньги продавцу FleemShop.</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62875600" class="contact-item" data-id="62875600">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Asimp</div>\n                            <div class="contact-item-message">если не боитесь\xa0— покупайте, сделаю</div>\n                <div class="contact-item-time">14.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62733359" class="contact-item" data-id="62733359">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6h/pd/6hpd6g3qqzcrbv39aixe.jpg);"></div>\n            </div>\n            <div class="media-user-name">tenka1</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #C7R46EXU.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62732839" class="contact-item" data-id="62732839">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ogbro</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #YH5CBRJ2.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62716632" class="contact-item" data-id="62716632">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">IgorekSokolov</div>\n                            <div class="contact-item-message">Продавец FleemShop ответил на отзыв к заказу #JAAFQ8W7.</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62709536" class="contact-item" data-id="62709536">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/sn/xu/snxue09nm2pzrhbcpsku.jpg);"></div>\n            </div>\n            <div class="media-user-name">arbal3st</div>\n                            <div class="contact-item-message">окей</div>\n                <div class="contact-item-time">13.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62648238" class="contact-item" data-id="62648238">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Damir29990900</div>\n                            <div class="contact-item-message">передумал?)</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62626419" class="contact-item" data-id="62626419">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">PROGER555</div>\n                            <div class="contact-item-message">за гарантию*</div>\n                <div class="contact-item-time">12.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62550797" class="contact-item" data-id="62550797">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">vladimirvavian</div>\n                            <div class="contact-item-message">Не, я за 2200 видел 15 айя</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62530979" class="contact-item" data-id="62530979">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Gte254</div>\n                            <div class="contact-item-message">:)</div>\n                <div class="contact-item-time">11.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=62121553" class="contact-item" data-id="62121553">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Cosmos656</div>\n                            <div class="contact-item-message">Понял</div>\n                <div class="contact-item-time">06.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60561134" class="contact-item" data-id="60561134">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flaud228</div>\n                            <div class="contact-item-message">Хорошо, я понял</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61925263" class="contact-item" data-id="61925263">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">LAGANPIk</div>\n                            <div class="contact-item-message">Нет, это акк для сошиал клаб</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61863493" class="contact-item" data-id="61863493">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kf/t5/kft5aktq7lva2rr7mocz.jpg);"></div>\n            </div>\n            <div class="media-user-name">Tonisd</div>\n                            <div class="contact-item-message">в рп денег нет</div>\n                <div class="contact-item-time">04.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61792373" class="contact-item" data-id="61792373">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/tk/r5/tkr57wszoma3gnbpm5b3.jpg);"></div>\n            </div>\n            <div class="media-user-name">Sevaka121</div>\n                            <div class="contact-item-message">Привет, да.</div>\n                <div class="contact-item-time">03.04</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466497" class="contact-item" data-id="61466497">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">KawaiiNN</div>\n                            <div class="contact-item-message">Продавец FleemShop вернул деньги покупателю KawaiiNN по заказу #HZ77GXVS.</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61466688" class="contact-item" data-id="61466688">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/ha/fx/hafxgioqcjeellnw4zw5.jpg);"></div>\n            </div>\n            <div class="media-user-name">MortalSIlence</div>\n                            <div class="contact-item-message">ну то есть взломанные</div>\n                <div class="contact-item-time">30.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60502746" class="contact-item" data-id="60502746">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Honor249</div>\n                            <div class="contact-item-message">Да к вам никаких притензий мне кажется нет смысла после бана накручивать так как снова в бан кинут</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=59790561" class="contact-item" data-id="59790561">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">L1l0</div>\n                            <div class="contact-item-message">спасибо</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61148193" class="contact-item" data-id="61148193">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Seva2068</div>\n                            <div class="contact-item-message">здравствуйте можно скрин акка</div>\n                <div class="contact-item-time">27.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=61062013" class="contact-item" data-id="61062013">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/wk/mb/wkmbcsv3yn6qy3ujzv09.jpg);"></div>\n            </div>\n            <div class="media-user-name">Cosmos101</div>\n                            <div class="contact-item-message">Точно не могу сказать, в ближайем будущем завоз не предвидится</div>\n                <div class="contact-item-time">26.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60959325" class="contact-item" data-id="60959325">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/qi/qz/qiqzp0dsluu3lc38pivb.jpeg);"></div>\n            </div>\n            <div class="media-user-name">RinoMas</div>\n                            <div class="contact-item-message">Всё равно спасибо</div>\n                <div class="contact-item-time">25.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60905835" class="contact-item" data-id="60905835">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill10273638282</div>\n                            <div class="contact-item-message">Жаль</div>\n                <div class="contact-item-time">24.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694785" class="contact-item" data-id="60694785">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Kirill1661Kova</div>\n                            <div class="contact-item-message">онлайн конечно же</div>\n                <div class="contact-item-time">23.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60694566" class="contact-item" data-id="60694566">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">GWGWGwgwg</div>\n                            <div class="contact-item-message">а так же почта к нему</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60690940" class="contact-item" data-id="60690940">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">ggranelgg</div>\n                            <div class="contact-item-message">Вам спасибо, облегчили мою игру )</div>\n                <div class="contact-item-time">22.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60565932" class="contact-item" data-id="60565932">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/6k/u9/6ku9xdrdcg53y3rmnr5w.jpg);"></div>\n            </div>\n            <div class="media-user-name">Thecool228</div>\n                            <div class="contact-item-message">Здравствуйте, могут, но накручиваю приватным софтом, так что шанс бана низок</div>\n                <div class="contact-item-time">21.03</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=60348226" class="contact-item" data-id="60348226">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/av/9t/av9tuvhx1jg9yyj4aacz.jpg);"></div>\n            </div>\n            <div class="media-user-name">vip1x</div>\n                            <div class="contact-item-message">2 минуты после захода</div>\n                <div class="contact-item-time">18.03</div>\n                    </a>\n    </div>'}}], 'response': False}
+[12:52:12][cardinal.py][324]> W: Не удалось поднять лоты категории "AFK Arena". FunPay говорит подождать еще 4ч.
+[12:52:12][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:13][cardinal.py][324]> W: Не удалось поднять лоты категории "APB: Reloaded". FunPay говорит подождать еще 4ч.
+[12:52:13][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:15][cardinal.py][324]> W: Не удалось поднять лоты категории "Aion". FunPay говорит подождать еще 4ч.
+[12:52:15][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:16][cardinal.py][324]> W: Не удалось поднять лоты категории "Albion Online". FunPay говорит подождать еще 4ч.
+[12:52:16][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:17][cardinal.py][324]> W: Не удалось поднять лоты категории "Among Us". FunPay говорит подождать еще 4ч.
+[12:52:17][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:17][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:18][cardinal.py][324]> W: Не удалось поднять лоты категории "Anthem". FunPay говорит подождать еще 4ч.
+[12:52:18][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:20][cardinal.py][324]> W: Не удалось поднять лоты категории "Apex Legends". FunPay говорит подождать еще 4ч.
+[12:52:20][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:21][cardinal.py][324]> W: Не удалось поднять лоты категории "ArcheAge". FunPay говорит подождать еще 4ч.
+[12:52:21][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:22][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:22][cardinal.py][324]> W: Не удалось поднять лоты категории "Assassin’s Creed". FunPay говорит подождать еще 2ч.
+[12:52:22][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:23][cardinal.py][324]> W: Не удалось поднять лоты категории "Atomic Heart". FunPay говорит подождать еще 2ч.
+[12:52:23][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:25][cardinal.py][324]> W: Не удалось поднять лоты категории "Back 4 Blood". FunPay говорит подождать еще 2ч.
+[12:52:25][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:26][cardinal.py][324]> W: Не удалось поднять лоты категории "Battlefield". FunPay говорит подождать еще 2ч.
+[12:52:26][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:27][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:27][cardinal.py][324]> W: Не удалось поднять лоты категории "Black Desert". FunPay говорит подождать еще 4ч.
+[12:52:27][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:28][cardinal.py][324]> W: Не удалось поднять лоты категории "Black Desert Mobile". FunPay говорит подождать еще 4ч.
+[12:52:28][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:30][cardinal.py][324]> W: Не удалось поднять лоты категории "Blade & Soul". FunPay говорит подождать еще 4ч.
+[12:52:30][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:31][cardinal.py][324]> W: Не удалось поднять лоты категории "Brawl Stars". FunPay говорит подождать еще 4ч.
+[12:52:31][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:32][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:32][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty (Прочие)". FunPay говорит подождать еще 2ч.
+[12:52:32][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:33][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty Mobile". FunPay говорит подождать еще 4ч.
+[12:52:33][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:35][cardinal.py][324]> W: Не удалось поднять лоты категории "Call of Duty Warzone". FunPay говорит подождать еще 2ч.
+[12:52:35][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:36][cardinal.py][324]> W: Не удалось поднять лоты категории "CarX Drift Racing". FunPay говорит подождать еще 2ч.
+[12:52:36][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:36][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:37][cardinal.py][324]> W: Не удалось поднять лоты категории "Chivalry 2". FunPay говорит подождать еще 2ч.
+[12:52:37][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:38][cardinal.py][324]> W: Не удалось поднять лоты категории "Counter-Strike 2". FunPay говорит подождать еще 4ч.
+[12:52:38][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:40][cardinal.py][324]> W: Не удалось поднять лоты категории "Counter-Strike: GO". FunPay говорит подождать еще 2ч.
+[12:52:40][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:41][cardinal.py][324]> W: Не удалось поднять лоты категории "Cyberpunk 2077". FunPay говорит подождать еще 2ч.
+[12:52:41][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:41][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:42][cardinal.py][324]> W: Не удалось поднять лоты категории "DayZ". FunPay говорит подождать еще 2ч.
+[12:52:42][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:43][cardinal.py][324]> W: Не удалось поднять лоты категории "Dead by Daylight". FunPay говорит подождать еще 2ч.
+[12:52:43][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:45][cardinal.py][324]> W: Не удалось поднять лоты категории "Destiny 2". FunPay говорит подождать еще 2ч.
+[12:52:45][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:46][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:46][cardinal.py][324]> W: Не удалось поднять лоты категории "Discord". FunPay говорит подождать еще 4ч.
+[12:52:46][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:47][cardinal.py][324]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 4ч.
+[12:52:47][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:48][cardinal.py][324]> W: Не удалось поднять лоты категории "EVE Online". FunPay говорит подождать еще 4ч.
+[12:52:48][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:49][cardinal.py][324]> W: Не удалось поднять лоты категории "Elden Ring". FunPay говорит подождать еще 4ч.
+[12:52:49][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:50][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:51][cardinal.py][324]> W: Не удалось поднять лоты категории "Elder Scrolls (TESO)". FunPay говорит подождать еще 2ч.
+[12:52:51][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:52][cardinal.py][324]> W: Не удалось поднять лоты категории "Epic Games". FunPay говорит подождать еще 2ч.
+[12:52:52][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:53][cardinal.py][324]> W: Не удалось поднять лоты категории "Escape from Tarkov". FunPay говорит подождать еще 4ч.
+[12:52:53][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:54][cardinal.py][324]> W: Не удалось поднять лоты категории "Fortnite". FunPay говорит подождать еще 4ч.
+[12:52:54][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:55][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:52:56][cardinal.py][324]> W: Не удалось поднять лоты категории "Free Fire". FunPay говорит подождать еще 4ч.
+[12:52:56][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:57][cardinal.py][324]> W: Не удалось поднять лоты категории "GTA 5 Online". FunPay говорит подождать еще 2ч.
+[12:52:57][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:52:58][cardinal.py][324]> W: Не удалось поднять лоты категории "GTA 5 RP, SAMP". FunPay говорит подождать еще 4ч.
+[12:52:58][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:52:59][cardinal.py][324]> W: Не удалось поднять лоты категории "Genshin Impact". FunPay говорит подождать еще 4ч.
+[12:52:59][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:00][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:01][cardinal.py][324]> W: Не удалось поднять лоты категории "New World". FunPay говорит подождать еще 4ч.
+[12:53:01][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:02][cardinal.py][324]> W: Не удалось поднять лоты категории "PUBG Mobile". FunPay говорит подождать еще 4ч.
+[12:53:02][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:03][cardinal.py][324]> W: Не удалось поднять лоты категории "PUBG". FunPay говорит подождать еще 4ч.
+[12:53:03][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:04][cardinal.py][324]> W: Не удалось поднять лоты категории "Path of Exile". FunPay говорит подождать еще 4ч.
+[12:53:04][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:05][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:06][cardinal.py][324]> W: Не удалось поднять лоты категории "Red Dead Redemption 2". FunPay говорит подождать еще 4ч.
+[12:53:06][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:07][cardinal.py][324]> W: Не удалось поднять лоты категории "Roblox". FunPay говорит подождать еще 4ч.
+[12:53:07][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:08][cardinal.py][324]> W: Не удалось поднять лоты категории "Rocket League". FunPay говорит подождать еще 4ч.
+[12:53:08][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:09][cardinal.py][324]> W: Не удалось поднять лоты категории "Royal Quest". FunPay говорит подождать еще 4ч.
+[12:53:09][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:09][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:11][cardinal.py][324]> W: Не удалось поднять лоты категории "RuneScape". FunPay говорит подождать еще 4ч.
+[12:53:11][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:12][cardinal.py][324]> W: Не удалось поднять лоты категории "Stalcraft". FunPay говорит подождать еще 4ч.
+[12:53:12][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:13][cardinal.py][324]> W: Не удалось поднять лоты категории "Stalker Online". FunPay говорит подождать еще 4ч.
+[12:53:13][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:14][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:14][cardinal.py][324]> W: Не удалось поднять лоты категории "Standoff 2". FunPay говорит подождать еще 4ч.
+[12:53:14][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:16][cardinal.py][324]> W: Не удалось поднять лоты категории "Steam". FunPay говорит подождать еще 1ч.
+[12:53:16][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите час.', 'error': 1}
+[12:53:17][cardinal.py][324]> W: Не удалось поднять лоты категории "Tower of Fantasy". FunPay говорит подождать еще 4ч.
+[12:53:17][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:18][cardinal.py][324]> W: Не удалось поднять лоты категории "Valheim". FunPay говорит подождать еще 4ч.
+[12:53:18][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:19][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:19][cardinal.py][324]> W: Не удалось поднять лоты категории "Valorant". FunPay говорит подождать еще 4ч.
+[12:53:19][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:21][cardinal.py][324]> W: Не удалось поднять лоты категории "Warface". FunPay говорит подождать еще 4ч.
+[12:53:21][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:22][cardinal.py][324]> W: Не удалось поднять лоты категории "Warframe". FunPay говорит подождать еще 2ч.
+[12:53:22][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 2 часа.', 'error': 1}
+[12:53:23][cardinal.py][324]> W: Не удалось поднять лоты категории "Xbox". FunPay говорит подождать еще 4ч.
+[12:53:23][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:24][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:24][cardinal.py][324]> W: Не удалось поднять лоты категории "Прочие игры". FunPay говорит подождать еще 4ч.
+[12:53:24][cardinal.py][326]> D: Ответ FunPay: {'msg': 'Подождите 4 часа.', 'error': 1}
+[12:53:28][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:33][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:38][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:43][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:47][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[12:53:52][runner.py][95]> D: Получены данные о событиях: {'objects': [], 'response': False}
